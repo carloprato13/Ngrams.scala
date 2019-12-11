@@ -72,6 +72,7 @@ object Ngram {
 		                                            }
 
 		        ngramsProbability.repartition(1).saveAsTextFile(args(2))
+		        println("Success")
 	        
 	      } catch {
 	         case ex: FileNotFoundException =>{

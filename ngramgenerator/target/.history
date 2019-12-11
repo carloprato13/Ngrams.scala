@@ -123,3 +123,6 @@ evicted
 package
 run "../resources/test2.txt" 3 "..resources/output2/"
 package
+run "../resources/test2.txt" 3 "../resources/output2/"
+run "../../resources/test2.txt" 3 "../../resources/output2/"
+exit
