@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/carlo/Scrivania/prova/target/scala-2.11/ngram_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/carlo/Scrivania/prova/target/scala-2.11/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ngram[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/carlo/Scrivania/prova/target/scala-2.11/classes/ngram[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ngram/Ngram$$anonfun$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/carlo/Scrivania/prova/target/scala-2.11/classes/ngram/Ngram$$anonfun$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ngram/Ngram$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/carlo/Scrivania/prova/target/scala-2.11/classes/ngram/Ngram$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ngram/Ngram$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/carlo/Scrivania/prova/target/scala-2.11/classes/ngram/Ngram$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ngram/Ngram.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/carlo/Scrivania/prova/target/scala-2.11/classes/ngram/Ngram.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ngram/Ngram$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/carlo/Scrivania/prova/target/scala-2.11/classes/ngram/Ngram$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ngram/Ngram$$anonfun$tokenize$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/carlo/Scrivania/prova/target/scala-2.11/classes/ngram/Ngram$$anonfun$tokenize$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ngram/Ngram$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/carlo/Scrivania/prova/target/scala-2.11/classes/ngram/Ngram$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ngram/Ngram$$anonfun$3$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/carlo/Scrivania/prova/target/scala-2.11/classes/ngram/Ngram$$anonfun$3$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ngram/Ngram$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/carlo/Scrivania/prova/target/scala-2.11/classes/ngram/Ngram$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ngram/Ngram$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/carlo/Scrivania/prova/target/scala-2.11/classes/ngram/Ngram$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ngram/Ngram$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/carlo/Scrivania/prova/target/scala-2.11/classes/ngram/Ngram$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

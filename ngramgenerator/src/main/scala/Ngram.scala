@@ -1,4 +1,4 @@
-
+package ngram
 import org.apache.spark.sql.SparkSession
 import java.io._
 
@@ -26,18 +26,18 @@ object Ngram {
 
 	def main(args: Array[String]): Unit = {
 
-		val spark = SparkSession
-			.builder()
-			.appName("Ngrams generator")
-			.master("local[*]")
-			.getOrCreate()
-
-		spark.sparkContext.setLogLevel("ERROR")
-
 		if (args.length ==0) 
 			println("Ngrams counter: \n Args should contain: \n - path to corpus \n - maximum size of ngrams \n - path to output ")
 	  	else 
 	  		try {
+				val spark = SparkSession
+					.builder()
+					.appName("Ngrams generator")
+					.master("local[*]")
+					.getOrCreate()
+
+				spark.sparkContext.setLogLevel("ERROR")
+
 		        val input =  spark.sparkContext.textFile(args(0)) //open file in args
 
 		        val words = input.map( tokenize(_).toList) // tokenize every sentence 

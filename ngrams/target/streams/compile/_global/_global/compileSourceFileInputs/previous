@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.11.11":{"hashes":[["/home/carlo/Scrivania/prova/src/main/scala/ngram/Ngram.scala","1f69c93580c7a4413286ca98f59075c4f1c98808"]],"lastModifiedTimes":[]}}]
